@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+keras
+TensorFlow
+# Optional: You may include these to ensure compatibility
+# keras>=2.6.0  # If using standalone Keras (not required for TensorFlow 2.x)
